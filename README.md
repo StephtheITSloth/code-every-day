@@ -13,6 +13,6 @@ Here is my fun code.. Hopefully it works.
 //         print('x is even')
 //     else :
 //         print('x is odd')
-//     return ('All done.')
+// return 
 
 // isXeven(55)
